@@ -1,0 +1,12 @@
+name: TSv4
+version: '${project.version}'
+main: teststickv4.tsv4.TSv4
+api-version: 1.19
+description: a concoction of different events, commands, and random things to keep rhylie's coding brain in check
+authors:
+  - Rhylie
+website: https://github.com/xrhyliee
+commands:
+  whereami:
+    description: makes life a little easier for people who don't want to sift through all the f3 crap.
+    usage: /<command>
